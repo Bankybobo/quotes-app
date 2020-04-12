@@ -22,7 +22,7 @@ import Header from './components/Header.vue';
     export default {
         data: function () {
             return {
-                quotesArray: ["Just a random quote to see something", "Hello, I am a Vue Developer"],
+                quotesArray: ["I am Adedara Bankole and this is a random quote", "Hello, I am a Vue Developer"],
                 maxQuotes: 10
             }
         },
